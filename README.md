@@ -1,7 +1,5 @@
 🏠🎥 Smart Motion Tracker for Home/Office (YOLO + Tracking)
 
-Developer: Farwa Shaikh
-
 A real-time motion tracking system that detects people, assigns unique IDs, and draws their movement paths using YOLOv8 + Object Tracking.
 This project is useful for home/office monitoring, visitor movement analysis, and basic security surveillance.
 
@@ -32,7 +30,7 @@ Draws a colored path showing where they move.
 
 🛠 Installation
 📍 1. Clone the repository
-git clone https://github.com/yourusername/smart-motion-tracker.git
+git clone https://github.com/farwa-shaikh/smart-motion-tracker.git
 cd smart-motion-tracker
 
 📍 2. Install dependencies
